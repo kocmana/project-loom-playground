@@ -1,0 +1,5 @@
+= Spring Virtual Thread Integration Playground
+
+== About
+This serves as a basic playground to explore the current state of the virtual thread integration in Spring Boot 3.2
+
