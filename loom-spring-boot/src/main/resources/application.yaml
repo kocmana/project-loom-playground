@@ -2,3 +2,5 @@ spring:
   threads:
     virtual:
       enabled: true
+  application:
+    name: loom-spring-boot

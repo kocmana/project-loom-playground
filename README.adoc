@@ -1,5 +1,13 @@
 = Spring Virtual Thread Integration Playground
 
 == About
-This serves as a basic playground to explore the current state of the virtual thread integration in Spring Boot 3.2
+This serves as a basic playground to explore the current state of project loom, especially
+
+* Virtual Threads creation and handling
+* Structured Concurrency
+* Spring Boot integration
+
+== Requirements
+
+* Java 22 with enabled Preview Features
 

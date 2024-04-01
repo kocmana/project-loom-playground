@@ -1,4 +1,4 @@
-package at.kocmana.asynccontroller;
+package at.kocmana.loomplayground.loomspringboot.asynccontroller;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.GetMapping;
